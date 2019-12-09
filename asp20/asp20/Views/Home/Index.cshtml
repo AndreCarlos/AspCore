@@ -1,0 +1,45 @@
+﻿@using asp20a.Classes
+
+@{
+    Pessoa eu = new Pessoa()
+    {
+        nome = "Andre",
+        apelido = "Carlos"
+    };
+
+    List<Pessoa> lista_pessoas = new List<Pessoa>();
+
+    lista_pessoas.Add(new Pessoa() { nome = "Ana", apelido = "Silva"});
+    lista_pessoas.Add(new Pessoa() { nome = "Antonio", apelido = "Oliveira"});
+    lista_pessoas.Add(new Pessoa() { nome = "Carla", apelido = "Santos"});
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+   @foreach (var pessoa in lista_pessoas)
+   {
+       <p>Nome: @pessoa.nome @pessoa.apelido</p>
+   }
+
+   @if (true)
+   {
+
+   }
+   else if(true)
+   {
+
+   }else
+   {
+
+   }
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\ASPCORE\asp10\asp10\bin\Debug\netcoreapp2.1\asp10.deps.json
+C:\ASPCORE\asp10\asp10\bin\Debug\netcoreapp2.1\asp10.runtimeconfig.json
+C:\ASPCORE\asp10\asp10\bin\Debug\netcoreapp2.1\asp10.runtimeconfig.dev.json
+C:\ASPCORE\asp10\asp10\bin\Debug\netcoreapp2.1\asp10.dll
+C:\ASPCORE\asp10\asp10\bin\Debug\netcoreapp2.1\asp10.pdb
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.csprojAssemblyReference.cache
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.csproj.CoreCompileInputs.cache
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.RazorAssemblyInfo.cache
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.RazorAssemblyInfo.cs
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.AssemblyInfoInputs.cache
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.AssemblyInfo.cs
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.RazorTargetAssemblyInfo.cache
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.dll
+C:\ASPCORE\asp10\asp10\obj\Debug\netcoreapp2.1\asp10.pdb
